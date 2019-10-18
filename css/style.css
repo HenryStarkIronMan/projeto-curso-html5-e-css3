@@ -1,0 +1,36 @@
+body {
+    background: #bff2de ;  /*o comando background é o método onde podemos definir a cor de fundo do site, escrevendo as cores em inglês e também definindo uma cor específica por meio de códigos hexadecimais que podem ser encontrados na internet ou presentes em alguns editores de texto e código-fonte*/   
+margin-bottom: 10px; /*definindo as margens do texto no site*/
+}
+
+h1 {  /*o h1 se refere ao título do site neste caso, mas todos os textos que usam esse tamanho vão ter a configuração abaixo, é aqui onde vamos mudar a sua aparência, colocando fontes e cores diferentes além de outros estilos*/
+    color:brown;  
+    font-family: sans-serif;
+    font: 
+}
+h1 <style> 
+    span{font-weight: bold;}
+</style>
+
+h2 {
+    color:yellow;   
+    font-family: fantasy;
+}
+p {
+    font-size: 20px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+img{ /*tamanho de margen para o espaçamento de todas imagens presentes na página*/
+    margin-bottom: 20px;
+}   
+/*.img_1{/*identificando uma classe criada em html para um ou mais documentos da pagina*/
+   /* margin-bottom: 30px;
+ /*   width: 300px;
+}*/
+footer{/*espaçamento do rodapé do site*/
+    margin-bottom: 30px;
+}
